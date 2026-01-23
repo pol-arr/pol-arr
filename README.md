@@ -1,16 +1,13 @@
-## Hi there 👋
+# Polar
 
-<!--
-**pol-arr/pol-arr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mostly front-end.
 
-Here are some ideas to get you started:
+I prefer things that are clear, restrained, and built to last.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+> «Сделано — значит понято.»  
+
+<br />
+
+If something looks simple, it probably took longer than expected.
